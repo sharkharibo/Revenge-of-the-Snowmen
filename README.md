@@ -1,18 +1,23 @@
-Game Objective:
-Dive into the world of Tatooine and save Christmas from its inhabitants!
-In this platformer, your mission is to deliver all the presents to the townspeople. But beware — the Dark Side of the Force wants to destroy Christmas!
-The fearsome Snow Troopers will do everything they can to stop you. Dodge their attacks,
-and get ready to face Snow Vador, the master of cold, in an epic battle where only the most determined will prevail.
-Will you be able to outsmart his traps and bring back the holiday magic to Tatooine?
+# 🎄 Holiday Tatooine: Mission Rescue
 
-Basic Controls:
-⬅️ Left Arrow: Move left
-➡️ Right Arrow: Move right
+Une aventure de plateforme épique où vous devez sauver Noël sur Tatooine face aux forces du Côté Obscur !
 
-To start the game:
+## 📖 Description
+Incarnez le héros chargé de distribuer les cadeaux aux habitants de Tatooine. Mais attention : les **Snow Troopers** ont juré d'empêcher les festivités. Esquivez leurs attaques, déjouez les pièges et préparez-vous à affronter le terrifiant **Snow Vador** dans un combat final pour ramener la magie de Noël !
 
-Have software capable of running Python
+---
 
-Have Pygame installed on your computer
+## 🚀 Installation
 
-Make sure all necessary files (images, music, etc.) are installed
+### Prérequis
+- [Python 3.x](https://www.python.org/)
+- [Pygame](https://www.pygame.org/)
+
+### Étapes
+1. Clonez ce dépôt ou téléchargez le projet.
+2. Installez les dépendances nécessaires via le terminal :
+   ```bash
+   pip install pygame
+## 🎮 Contrôles
+- ⬅️ Flèche gauche : Déplacement à gauche
+- ➡️ Flèche droite : Déplacement à droite
