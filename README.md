@@ -1,9 +1,5 @@
-# 🎄 Holiday Tatooine: Mission Rescue
-
-Une aventure de plateforme épique où vous devez sauver Noël sur Tatooine face aux forces du Côté Obscur !
-
 ## 📖 Description
-Incarnez le héros chargé de distribuer les cadeaux aux habitants de Tatooine. Mais attention : les **Snow Troopers** ont juré d'empêcher les festivités. Esquivez leurs attaques, déjouez les pièges et préparez-vous à affronter le terrifiant **Snow Vador** dans un combat final pour ramener la magie de Noël !
+Vous incarnez un héros chargé de distribuer les cadeaux aux habitants de Tatooine. Mais attention : les **Snow Troopers** ont juré d'empêcher les festivités. Esquivez leurs attaques, déjouez les pièges et préparez-vous à affronter le terrifiant **Snow Vador** dans un combat final pour ramener la magie de Noël !
 
 ---
 
